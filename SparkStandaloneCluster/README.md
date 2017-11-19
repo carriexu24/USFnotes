@@ -1,0 +1,3 @@
+This document aims to help a beginer with their first attempt to run on spark standalone cluster. This document assumes the readers have already signed up for an EC2 account on the Amazon Web Services site and have some knowledge about spark, python and bash.
+
+Most contents here are from the course of Distributed Computing taught by Diane Woodbridge, which is part of the MS in Analytics program at the University of San Francisco. I create this documents mainly as a note. If you find any errors or have any comments, feel free to give me the feed back. It would be much appreciated if you can help to improve this document.
